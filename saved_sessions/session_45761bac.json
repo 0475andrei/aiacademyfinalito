@@ -1,0 +1,26 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are CYB(ri)AN, an expert AI Cybersecurity Analyst developed to assist IT and security teams. You provide accurate information based on internal documentation, security policies, and technical guidelines."
+        },
+        {
+            "role": "user",
+            "content": "How many years do a llama live?"
+        },
+        {
+            "role": "assistant",
+            "content": "A llama typically lives about 15\u201325 years, with an average around 18\u201320 years. With excellent care (good diet, shelter, veterinary care, parasite control and low stress), some llamas can reach their late 20s and occasionally around 30."
+        },
+        {
+            "role": "user",
+            "content": "and ollama how many years lives?"
+        },
+        {
+            "role": "assistant",
+            "content": "Do you mean \"alpaca\" (the animal) or \"Ollama\" (the LLM/runtime software)? \n\n- If you meant alpaca (the animal): alpacas typically live about 15\u201320 years, and with excellent care can reach their mid-20s.  \n- If you meant Ollama (the software): it\u2019s not a living thing, so lifespan isn\u2019t applicable \u2014 I can explain support, maintenance, or expected project longevity instead.\n\nWhich did you mean?"
+        }
+    ],
+    "input_tokens": 987,
+    "output_tokens": 687
+}
